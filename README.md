@@ -1,5 +1,5 @@
 # grpc-metadata-greeter
-This project is created to check how grpc parses metadata saved under differently formatted keys. 
+Demo for User-Agent and case metadata
 
 ## Run
 ``make docker-run-test``
